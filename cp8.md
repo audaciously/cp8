@@ -13,3 +13,5 @@ programming question context - poker (strategies and how shuffling works), how C
 - zybooks submission ends at 12:22pm
 - open book, use any online resources (how to shuffle objects)
 - no chatting with human beings
+
+study: poker, zybooks, know how things are added and removed from each collection, how shuffle impacts intial gameplay, old exam,
