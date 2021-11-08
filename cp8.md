@@ -42,3 +42,5 @@ swing (javax.swing)
 - lightweight components dont rely on GUI
 
 Container inherits and aggregates from Component
+
+GridLayout or BorderLayout - panels in each area and can move them aound intact
