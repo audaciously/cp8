@@ -15,3 +15,30 @@ programming question context - poker (strategies and how shuffling works), how C
 - no chatting with human beings
 
 study: poker, zybooks, know how things are added and removed from each collection, how shuffle impacts intial gameplay, old exam,
+
+
+11/8
+GUI programming - more applications of inheritance and aggregation
+- graphical user interface
+- easy across uses, but implementation can be difficult
+- java renders the same way across platforms
+
+GUI packages
+import javax.swing.*;
+
+basic elements of GUI
+- components (widgets) - buttons, checkboxes, etc
+-   containers collect components togther in a single unit
+- layout managers - determine how the components are organized on a display
+-   if necessary, you can position components without using a layout manager. generally, his solution is used to specify absolute sizes and positions for components
+
+2 kinds of components
+abstract windowing toolkit (java.awt)
+- designed to use components from platform
+- good idea but problematic - have to allow options for all platforms, resulted in heavyweight components
+swing (javax.swing)
+- components start with J
+- only lowest level components are from platform
+- lightweight components dont rely on GUI
+
+Container inherits and aggregates from Component
