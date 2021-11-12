@@ -44,3 +44,7 @@ swing (javax.swing)
 Container inherits and aggregates from Component
 
 GridLayout or BorderLayout - panels in each area and can move them aound intact
+
+11/12
+layout managers
+- the configuration of components within a content pane is determined by the layout manager (int the java.awt package)
